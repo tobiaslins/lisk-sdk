@@ -1,0 +1,14 @@
+{
+  "name": "lisk-sdk",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Tobias Lins <tobias@lins.in>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "prettier": {
+    "tabs": "false"
+  }
+}
